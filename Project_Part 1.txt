@@ -8,4 +8,10 @@ all possible paths, and the program would print out the traveling information fo
 user.
 
   In my program,I will be using including but not limited to graph, hash tables,
- queue etc. There would be at least seven options in the main menu.  
+ queue etc. The graph would store the locations
+ of airports. Then I might be using algorithm like BFS to 
+ find the shortest path. Hash tables store other informations 
+ of each airport.
+ 
+ There would be at least seven options in the main menu like adding/deleting an airport, finding 
+ an airport and checking its information, creating a path between two places.
