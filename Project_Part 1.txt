@@ -1,0 +1,11 @@
+# Chen_CSCI2270_FinalProject
+
+#This is a file that describes the design of the final project.
+In this project, I want to create a program that collect the distances between
+different airports and calculate the shortest path between them. The function
+would ask user to input their current location and their destination, then calculate
+all possible paths, and the program would print out the traveling information for
+user.
+
+  In my program,I will be using including but not limited to graph, hash tables,
+ queue etc. There would be at least seven options in the main menu.  
